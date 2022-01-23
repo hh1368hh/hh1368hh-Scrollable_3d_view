@@ -4,4 +4,5 @@ Using this GUI, you can scroll through the 3D dimension matrix and use the scrol
 
 
 if you find this usefull please cite our paper here:
+
 Hooshangnejad, H., Youssefian, S., Guest, J. K., & Ding, K. (2021). FEMOSSA: Patient‐specific Finite Element Simulation of the Prostate‐Rectum Spacer Placement, a Predictive Model for Prostate Cancer Radiotherapy. Medical Physics.
